@@ -1,3 +1,4 @@
+#variables
 variable "ami_id" {
   type = string
 #  default = "ami-024e6efaf93d85776"
