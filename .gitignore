@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+ec2-ssh
+ec2-ssh.pub
